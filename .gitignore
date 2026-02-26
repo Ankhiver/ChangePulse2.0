@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Local runtime files (do not commit)
+state.json
+config.json
+
+# Editors
+.vscode/
+.idea/
